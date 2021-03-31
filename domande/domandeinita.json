@@ -2,9 +2,7 @@
     "response_code": 0,
     "results": [
         {
-            "category": "Entertainment: Film",
-            "type": "multiple",
-            "difficulty": "easy",
+            
             "question": "Quanto fa 1+1?",
             "correct_answer": "2",
             "incorrect_answers": [
