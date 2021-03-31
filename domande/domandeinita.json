@@ -1,0 +1,125 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "category": "Entertainment: Film",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Quanto fa 1+1?",
+            "correct_answer": "2",
+            "incorrect_answers": [
+                "3",
+                "22",
+                " 8"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Quanto fa 2+2?",
+            "correct_answer": "4",
+            "incorrect_answers": [
+                "2",
+                "3",
+                "1"
+            ]
+        },
+        {
+            "category": "Science: Mathematics",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Quanto fa 3+3?",
+            "correct_answer": "6",
+            "incorrect_answers": [
+                "4",
+                "2",
+                "1"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Quanto fa 4+4?",
+            "correct_answer": "8",
+            "incorrect_answers": [
+                "99",
+                "0",
+                "5"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "boolean",
+            "difficulty": "hard",
+            "question": "Quanto fa 5+5?",
+            "correct_answer": "10",
+            "incorrect_answers": [
+                "9",
+		"5",
+		"4"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Quanto fa 6+6?",
+            "correct_answer": "12",
+            "incorrect_answers": [
+                "24",
+                "3",
+                "54"
+            ]
+        },
+        {
+            "category": "Entertainment: Film",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Quanto fa 7+7?",
+            "correct_answer": "14",
+            "incorrect_answers": [
+                "44",
+                "6",
+                "7"
+            ]
+        },
+        {
+            "category": "Science: Computers",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Quanto fa 8+8?",
+            "correct_answer": "16",
+            "incorrect_answers": [
+                "543",
+                "100",
+                "1240"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Quanto fa 9+9",
+            "correct_answer": "18",
+            "incorrect_answers": [
+                "300",
+                "2566",
+                "754"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "IQuanto fa 10+10?",
+            "correct_answer": "20",
+            "incorrect_answers": [
+                "4567",
+                "0976",
+                "23"
+            ]
+        }
+    ]
+}
